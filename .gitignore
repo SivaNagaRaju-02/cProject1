@@ -1,0 +1,5 @@
+# all binary files
+*.exe
+
+# all object files
+*.o
