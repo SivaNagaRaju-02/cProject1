@@ -1,0 +1,1 @@
+void matInverse(int mat[][10], int n);
